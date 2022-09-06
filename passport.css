@@ -1,0 +1,15 @@
+input[type=radio] {
+    width: 15px;
+    height: 15px;
+}
+input[type=checkbox] {
+    width: 15px;
+    height: 15px;
+}
+
+.error{
+	color:red;
+	/* width:100%;
+	margin-top:10px;
+	padding-left:105px; */
+}
